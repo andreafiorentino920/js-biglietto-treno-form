@@ -1,0 +1,33 @@
+/* Reset */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Common */
+body{
+  background-color: #b91450;
+  text-align: center;
+}
+
+/* Body */
+.container,.biglietto{
+  width: 80%;
+  margin: auto;
+}
+h1{
+  color: white;
+}
+.form-biglietto, .biglietto{
+  background-color: white;
+}
+.inline{
+  display: inline-block;
+}
+.dettaglio{
+  text-align: left;
+}
+.nome-passeggero{
+  background-color: #807f7f;
+}
