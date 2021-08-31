@@ -50,23 +50,3 @@ btnAnnulla.addEventListener("click",
         document.getElementById("fascia").selectIndex = "0";
     }
 );
-
-
-
-
-
-
-
-
-
-// btnGenera.addEventListener("click",
-//     function(){
-//         var nome = document.getElementById("nome").value;
-//         var km = parseInt(document.getElementById("km").value);
-//         var carrozza = 
-//         // document.getElementById("nome-passeggero").innerHTML = nome;
-//         // document.getElementById("carrozza").innerHTML = km;
-//         // document.getElementById("codice").innerHTML = codice;
-//         // var fasciaEta = document.getElementById("eta").value;
-//     }
-// );
